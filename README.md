@@ -1,1 +1,1 @@
-# restful-cors-service
+Sample restful Spring service with CORS enabled
