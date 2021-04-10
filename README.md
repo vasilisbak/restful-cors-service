@@ -1,1 +1,1 @@
-Sample restful Spring service with CORS enabled
+Sample RESTful Spring service with Cross-Origin Resource Sharing (CORS) enabled
